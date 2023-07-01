@@ -1,0 +1,34 @@
+# Discrete Mathematical Structures with Applications to Computer Science by J.P. Tremblay and R. Manohar
+ 
+This is a book review of **Discrete Mathematical Structures with Applications to Computer Science** by J.P. Tremblay and R. Manohar, published by McGraw-Hill in 1975[^1^] [^2^] [^3^]. This book is intended for undergraduate students of computer science who want to learn the fundamentals of discrete mathematics and its applications to various topics such as logic, set theory, algorithms, graphs, languages, automata, and cryptography.
+ 
+The book consists of 14 chapters and covers a wide range of discrete mathematical concepts and techniques. The authors explain the concepts in a clear and rigorous manner, using examples, exercises, and proofs to illustrate the main points. The book also provides many applications of discrete mathematics to computer science problems, such as designing circuits, testing programs, parsing languages, and encrypting messages.
+ 
+**Download File 🆗 [https://t.co/Og48t13BNo](https://t.co/Og48t13BNo)**
+
+
+ 
+Some of the strengths of this book are:
+ 
+- It covers a comprehensive and relevant set of topics for computer science students.
+- It provides a solid foundation for further studies in theoretical computer science.
+- It uses a consistent and logical notation and terminology throughout the book.
+- It includes many solved examples and exercises to reinforce the learning outcomes.
+- It shows the connections between different discrete mathematical structures and their properties.
+
+Some of the weaknesses of this book are:
+ 
+discrete mathematical structures with applications by manohar pdf,  discrete mathematical structures by tremblay and manohar pdf download,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar pdf,  discrete mathematics by tremblay and manohar pdf free download,  discrete mathematical structures by tremblay and manohar ebook,  discrete mathematical structures with applications to computer science by tremblay and manohar pdf,  discrete mathematics by tremblay and manohar solutions pdf,  discrete mathematical structures by tremblay and manohar mcgraw hill pdf,  discrete mathematics by j.p. tremblay and r. manohar pdf,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar pdf download,  discrete mathematics by tremblay and manohar book pdf,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar ebook,  discrete mathematics by tremblay and manohar lecture notes pdf,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar solution manual pdf,  discrete mathematics by tremblay and manohar mcgraw hill pdf,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar mcgraw hill pdf,  discrete mathematics by tremblay and manohar ppt,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar ppt,  discrete mathematics by tremblay and manohar slideshare,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar slideshare,  discrete mathematics by tremblay and manohar google books,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar google books,  discrete mathematics by tremblay and manohar amazon,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar amazon,  discrete mathematics by tremblay and manohar flipkart,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar flipkart,  discrete mathematics by tremblay and manohar goodreads,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar goodreads,  discrete mathematics by tremblay and manohar review,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar review,  discrete mathematics by tremblay and manohar syllabus,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar syllabus,  discrete mathematics by tremblay and manohar topics,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar topics,  discrete mathematics by tremblay and manohar summary,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar summary,  discrete mathematics by tremblay and manohar edition,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar edition,  discrete mathematics by tremblay and manohar publication year,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar publication year,  discrete mathematics by tremblay and manohar isbn,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar isbn,  discrete mathematics by tremblay and manohar price in india,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar price in india,  discrete mathematics by tremblay and manohar online reading,  discrete mathematical structures with applications to computer science by j.p. tremblay r. manohar online reading
+
+- It is outdated and does not reflect the current developments and trends in discrete mathematics and computer science.
+- It is too long and verbose for a first-year course and may overwhelm some students.
+- It does not provide enough visual aids such as diagrams, tables, and graphs to facilitate the understanding of complex concepts.
+- It does not offer any online resources or supplementary materials to enhance the learning experience.
+
+In conclusion, **Discrete Mathematical Structures with Applications to Computer Science** by J.P. Tremblay and R. Manohar is a classic textbook that covers the essential topics of discrete mathematics for computer science students. It is suitable for those who want to gain a deep and rigorous understanding of the subject and its applications. However, it may not be the best choice for those who prefer a more modern, concise, and interactive approach to learning discrete mathematics.
+
+If you are interested in reading this book, you can download a PDF version from the following link. However, please note that this is a non-profit website and you should respect the copyright of the authors and the publisher. Alternatively, you can buy a hard copy of the book from online or offline bookstores.
+ 
+If you have any questions or feedback about this book or this article, please feel free to leave a comment below. I hope you enjoyed reading this article and learned something new about discrete mathematics and computer science.
+ 8cf37b1e13
+ 
